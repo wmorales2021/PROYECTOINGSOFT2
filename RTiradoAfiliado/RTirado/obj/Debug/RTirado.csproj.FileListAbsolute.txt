@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\SharpDevelop Projects\RTirado\RTirado\bin\Debug\RTirado.exe.config
+C:\Users\Lenovo\Documents\SharpDevelop Projects\RTirado\RTirado\bin\Debug\RTirado.exe
+C:\Users\Lenovo\Documents\SharpDevelop Projects\RTirado\RTirado\bin\Debug\RTirado.pdb
+C:\Users\Lenovo\Documents\SharpDevelop Projects\RTirado\RTirado\obj\Debug\RTirado.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\SharpDevelop Projects\RTirado\RTirado\obj\Debug\RTirado.MainForm.resources
+C:\Users\Lenovo\Documents\SharpDevelop Projects\RTirado\RTirado\obj\Debug\RTirado.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\SharpDevelop Projects\RTirado\RTirado\obj\Debug\RTirado.exe
+C:\Users\Lenovo\Documents\SharpDevelop Projects\RTirado\RTirado\obj\Debug\RTirado.pdb
